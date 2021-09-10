@@ -1,0 +1,1 @@
+连数据库用gorm: go get -u github.com/jinzhu/gorm
